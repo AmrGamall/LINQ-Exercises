@@ -1,0 +1,14 @@
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\bin\Debug\net6.0\LINQ_Assignments.exe
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\bin\Debug\net6.0\LINQ_Assignments.deps.json
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\bin\Debug\net6.0\LINQ_Assignments.runtimeconfig.json
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\bin\Debug\net6.0\LINQ_Assignments.dll
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\bin\Debug\net6.0\LINQ_Assignments.pdb
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\obj\Debug\net6.0\LINQ_Assignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\obj\Debug\net6.0\LINQ_Assignments.AssemblyInfoInputs.cache
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\obj\Debug\net6.0\LINQ_Assignments.AssemblyInfo.cs
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\obj\Debug\net6.0\LINQ_Assignments.csproj.CoreCompileInputs.cache
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\obj\Debug\net6.0\LINQ_Assignments.dll
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\obj\Debug\net6.0\refint\LINQ_Assignments.dll
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\obj\Debug\net6.0\LINQ_Assignments.pdb
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\obj\Debug\net6.0\LINQ_Assignments.genruntimeconfig.cache
+E:\C41 Route\Test\LINQ_Assignments\LINQ_Assignments\obj\Debug\net6.0\ref\LINQ_Assignments.dll
